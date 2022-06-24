@@ -16,4 +16,18 @@ Step 3: Re-Config everything in config.yml before restarting CDRP<br>
 Please run this program for the first time, then config.yml will be generated, then re-config everything in config.yml before restarting CDRP<br>
 
 # License
-This project follows [GNU GENERAL PUBLIC LICENSE VER 3] (GNU GPLv3). This is observed everywhere where this source code is stored, even if it is stolen, we reserve the right to legally intervene in any act that does not comply with the GNU GPLv3 License.
+This project is subject to the [GNU General Public License v3.0](LICENSE). This does only apply for source code located directly in this clean repository. During the development and compilation process, additional source code may be used to which we have obtained no rights. Such code is not covered by the GPL license.
+
+For those who are unfamiliar with the license, here is a summary of its main points. This is by no means legal advice nor legally binding.
+
+You are allowed to
+- use
+- share
+- modify
+
+this project entirely or partially for free and even commercially. However, please consider the following:
+
+- **You must disclose the source code of your modified work and the source code you took from this project. This means you are not allowed to use code from this project (even partially) in a closed-source (or even obfuscated) application.**
+- **Your modified application must also be licensed under the GPL** 
+
+Do the above and share your source code with everyone, just like we do !
